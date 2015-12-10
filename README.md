@@ -1,2 +1,2 @@
-# Stitchy
-scripts to design stitchy primers
+# PATCHY
+scripts to design PATCHY primers
